@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/97486359/170394663-f8b59f6d-3dc9-4820-88f1-dba236cca434.png) <br>
 ![image](https://user-images.githubusercontent.com/97486359/170394691-2dec982a-7a79-41aa-80d7-98ea6e5e1736.png) <br>
 
-전역변수는 <%! %>라는 선언문을 사용하고 지역변수와 연산식은 <%  %>라는 스크립트 릿을 사용한다.
+전역변수는 <%! %>라는 선언문을 사용하고 지역변수와 연산식은 <%  %>라는 스크립트 릿을 사용한다. <br>
 if 문을 사용하여 su1이 더 크면 덧셈 연산을 하고 su2가 더 크면 뺄쌤 연산을 하는 코드이다
 
 <h3>ex4</h3><br>
@@ -60,7 +60,7 @@ for 문안에 또 다른 for 문을 넣어 2중 for을 사용 가능하다.
 ![image](https://user-images.githubusercontent.com/97486359/170175856-c7fe4556-03f1-429c-bc04-0cf9fec4e366.png) <br>
 ![image](https://user-images.githubusercontent.com/97486359/170175871-1278a7dc-ec8e-42dd-a329-c1ac4e9d6e43.png) <br>
 
-클래스란 함수뿐만 아니라 관련된 변수까지도 한꺼번에 묶어서 관리하고 재사용할 수 있게 해주는 것이 바로 클래스라고 하고
+클래스란 함수뿐만 아니라 관련된 변수까지도 한꺼번에 묶어서 관리하고 재사용할 수 있게 해주는 것이 바로 클래스라고 하고 <br>
 클래스에 포함되는 함수를 메소드라고 부릅니다.
 
 <h3>ex7</h3><br>
