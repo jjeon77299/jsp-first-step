@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/97486359/170394527-9979bcc6-fd21-4be2-89ba-731a880998a1.png) <br>
 ![image](https://user-images.githubusercontent.com/97486359/170394565-0238ecfa-79b8-4dfa-a0c6-cf941869944e.png) <br>
   
-전역변수는 함수 외부에서 선언된 변수로, 프로그램 전체에서 접근할 수 있는 변수입니다.
+전역변수는 함수 외부에서 선언된 변수로, 프로그램 전체에서 접근할 수 있는 변수입니다. <br>
 지역변수는 함수 내부에서 선언된 변수로, 함수가 실행되면 만들어지고 함수가 종료되면 소멸하는 변수입니다.
 
 <h3>ex2</h3><br>
