@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/97486359/170394565-0238ecfa-79b8-4dfa-a0c6-cf941869944e.png) <br>
   
 지역변수는 함수 내에서 쓰이는 변수를 의미하고 전역변수를 프로그램 전체에서 쓰이는 변수를 의미한다.
- 
+
 <h3>ex2</h3><br>
 
 ![image](https://user-images.githubusercontent.com/97486359/170394663-f8b59f6d-3dc9-4820-88f1-dba236cca434.png) <br>
@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/97486359/170175931-bdeb845f-49c2-4e07-bff1-21344f99ce66.png) <br>
 ![image](https://user-images.githubusercontent.com/97486359/170175949-c5431511-9c88-433f-8b13-85413ea5ed9d.png) <br>
 
-for문을 사용해 반복이 필요한 곳에서 반복을 한다.
+for 문을 사용해 for 문 안쪽의 공간을 반복시킬 수 있다.
 
 <h3>ex5</h3><br>
 
@@ -38,7 +38,7 @@ for문을 사용해 반복이 필요한 곳에서 반복을 한다.
 ![image](https://user-images.githubusercontent.com/97486359/170175965-cdb8f5bf-8f90-4a6f-beb1-5968143c6c9d.png) <br>
 ![image](https://user-images.githubusercontent.com/97486359/170175978-4ba17217-0fa7-4fa7-9d63-edfd16184f5d.png) <br>
 
-for문을 사용해 반복이 필요한 곳에서 반복을 한다.
+for 문을 사용해 for 문 안쪽의 공간을 반복시킬 수 있다.
 
 <h3>ex6</h3><br>
   
